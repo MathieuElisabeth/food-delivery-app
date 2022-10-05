@@ -10,6 +10,8 @@ Open terminal and run:
 
 ## Start the project
 
+Don't forget to put your environment variables in firebas.config.js.
+
 Run:
 
 `npm start`
