@@ -11,5 +11,6 @@ Open terminal and run:
 ## Start the project
 
 Run:
+
 `npm start`
 
