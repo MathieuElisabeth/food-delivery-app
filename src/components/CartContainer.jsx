@@ -25,7 +25,7 @@ const CartContainer = () => {
       return accumulator + item.qty * item.price;
     }, 0)
     setTot(totalPrice)
-  }, [tot, flag])
+  }, [tot, flag, cartItems])
 
   const clearCart = () => {
     dispatch({
